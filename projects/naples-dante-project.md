@@ -43,15 +43,19 @@ NDP develops and connects a series of research initiatives devoted to the *Comme
 
 ### GitHub repositories
 
-FeDHLab repositories related to NDP are currently being established.
+FeDHLab is the institutional GitHub organization for NDP-specific
+software, documentation, datasets and computational resources.
 
-Planned resources include:
+Planned / migrating repositories include:
 
-- NDP-specific Cadmus resources;
-- Cadmus NDP documentation and user help;
+- `fedhlab/cadmus-ndp` — NDP-specific implementation of Cadmus;
+- `fedhlab/cadmus-ndp-help` — user documentation and reference manual;
 - data-processing scripts and computational workflows;
 - structured datasets and metadata;
 - technical documentation.
+
+The Cadmus core and reusable upstream components remain maintained
+within the VeDPH Cadmus ecosystem.
 
 ### Platforms and projects
 
